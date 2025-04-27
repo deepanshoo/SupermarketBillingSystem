@@ -21,7 +21,7 @@ A C++ console-based application to streamline and manage billing operations in a
 ## Installation and Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/deepanshoo/supermarket-billing-system.git
+   git clone https://github.com/deepanshoo/SupermarketBillingSystem.git
    cd supermarket-billing-system
    ```
 2. **Compile the Program**
